@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinrajawat&label=Profile%20views&color=0e75b6&style=flat" alt="sachinrajawat" /> </p>
 
 - 📫 How to reach me **sachinrajawat38@gmail.com**
+- **Portfolio** - <a href="https://sachinrajawat.netlify.app/" target="_blank">Visit My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
