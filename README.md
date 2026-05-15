@@ -1,28 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sachin Singh Rajawat</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
 
-<img lign="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+# Hi 👋, I'm Sachin Singh Rajawat
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinrajawat&label=Profile%20views&color=0e75b6&style=flat" alt="sachinrajawat" /> </p>
+### Full-stack engineer · TypeScript · React/Next.js · Node · MongoDB · AI tooling
 
-- 📫 How to reach me **sachinrajawat38@gmail.com**
-- **Portfolio** - <a href="https://sachinrajawat.netlify.app/" target="_blank">Visit My Portfolio</a>
+I build production-shaped web applications with strong typing, real tests, and clean deploys.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sachin-singh-rajawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-singh-rajawat" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sachin_raj38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sachin_raj38" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sachinrajawat38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachinrajawat38" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sachinrajawat38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sachinrajawat38" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sachinrajawat38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachinrajawat38" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sachinramdrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sachinramdrj" height="30" width="40" /></a>
-</p>
+📍 India · 📫 [sachinrajawat38@gmail.com](mailto:sachinrajawat38@gmail.com) · [LinkedIn](https://linkedin.com/in/sachin-singh-rajawat)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinrajawat&show_icons=true&locale=en&layout=compact" alt="sachinrajawat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinrajawat&show_icons=true&locale=en" alt="sachinrajawat" /></p>
+## 🚀 Featured projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinrajawat&" alt="sachinrajawat" /></p>
+### [FixItNow](https://github.com/Sachinrajawat/FixItNow) — Home-services marketplace
+
+[**Live demo →**](https://fix-it-now-web-in9h.vercel.app) · TypeScript monorepo: Next.js 14 web + Express/Mongoose/Redis API + shared Zod schemas.
+
+JWT auth with rotating refresh tokens on a Redis allowlist · race-safe double-booking via a partial unique Mongo index (E11000 → typed 409) · Redis cache-aside + rate limiting · optimistic UI for ratings · admin dashboard with RBAC · auto-generated OpenAPI from the shared schemas · **108 integration + component tests** · deployed on Vercel + Render + Atlas + Upstash.
+
+`TypeScript` `Next.js 14` `Express` `Mongoose` `Redis` `Zod` `JWT` `Docker`
+
+### [Codebase Onboarding Assistant](https://github.com/Sachinrajawat/codebase-onboarding-assistant) — Chat with any GitHub repo
+
+[**Live demo →**](https://codebase-onboarding-assistant.vercel.app) · Full-stack RAG application.
+
+Clones a repo, chunks code with **tree-sitter AST parsing**, embeds with OpenAI, stores in **Qdrant**, then answers questions over **Server-Sent Events** with line-numbered GitHub citations. **Hybrid retrieval** (top-8 vector + exact symbol-name match) handles direct-identifier queries that pure vector search misses. Indexes a 20K-line repo in under 60 seconds at ~$0.005.
+
+`React` `Node.js` `MongoDB` `Qdrant` `OpenAI` `tree-sitter`
+
+---
+
+## 🛠 What I'm working with
+
+```text
+Languages   TypeScript · JavaScript · Python
+Frontend    React · Next.js 14 · Tailwind · shadcn/ui · Vite
+Backend     Node.js · Express · REST · Zod
+Data        MongoDB · Redis · Qdrant · PostgreSQL
+AI          OpenAI · RAG · tree-sitter · Ollama
+DevOps      Docker · GitHub Actions · Vercel · Render · Atlas · Upstash
+Testing     Jest · Vitest · Supertest · React Testing Library
+```
+
+---
+
+## 📫 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-singh-rajawat)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachinrajawat38@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/sachinrajawat38/)
+
+LinkedIn DM or email is the fastest way to reach me — I reply within 24 hours.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinrajawat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Sachinrajawat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
