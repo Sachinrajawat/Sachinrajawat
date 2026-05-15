@@ -57,6 +57,10 @@ LinkedIn DM or email is the fastest way to reach me — I reply within 24 hours.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinrajawat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Sachinrajawat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sachinrajawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Sachinrajawat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinrajawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
 </div>
