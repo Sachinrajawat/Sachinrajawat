@@ -14,14 +14,6 @@ I build production-shaped web applications with strong typing, real tests, and c
 
 ## 🚀 Featured projects
 
-### [FixItNow](https://github.com/Sachinrajawat/FixItNow) — Home-services marketplace
-
-[**Live demo →**](https://fix-it-now-web-in9h.vercel.app) · TypeScript monorepo: Next.js 14 web + Express/Mongoose/Redis API + shared Zod schemas.
-
-JWT auth with rotating refresh tokens on a Redis allowlist · race-safe double-booking via a partial unique Mongo index (E11000 → typed 409) · Redis cache-aside + rate limiting · optimistic UI for ratings · admin dashboard with RBAC · auto-generated OpenAPI from the shared schemas · **108 integration + component tests** · deployed on Vercel + Render + Atlas + Upstash.
-
-`TypeScript` `Next.js 14` `Express` `Mongoose` `Redis` `Zod` `JWT` `Docker`
-
 ### [Codebase Onboarding Assistant](https://github.com/Sachinrajawat/codebase-onboarding-assistant) — Chat with any GitHub repo
 
 [**Live demo →**](https://codebase-onboarding-assistant.vercel.app) · Full-stack RAG application.
@@ -29,6 +21,14 @@ JWT auth with rotating refresh tokens on a Redis allowlist · race-safe double-b
 Clones a repo, chunks code with **tree-sitter AST parsing**, embeds with OpenAI, stores in **Qdrant**, then answers questions over **Server-Sent Events** with line-numbered GitHub citations. **Hybrid retrieval** (top-8 vector + exact symbol-name match) handles direct-identifier queries that pure vector search misses. Indexes a 20K-line repo in under 60 seconds at ~$0.005.
 
 `React` `Node.js` `MongoDB` `Qdrant` `OpenAI` `tree-sitter`
+
+### [FixItNow](https://github.com/Sachinrajawat/FixItNow) — Home-services marketplace
+
+[**Live demo →**](https://fix-it-now-web-in9h.vercel.app) · TypeScript monorepo: Next.js 14 web + Express/Mongoose/Redis API + shared Zod schemas.
+
+JWT auth with rotating refresh tokens on a Redis allowlist · race-safe double-booking via a partial unique Mongo index (E11000 → typed 409) · Redis cache-aside + rate limiting · optimistic UI for ratings · admin dashboard with RBAC · auto-generated OpenAPI from the shared schemas · **108 integration + component tests** · deployed on Vercel + Render + Atlas + Upstash.
+
+`TypeScript` `Next.js 14` `Express` `Mongoose` `Redis` `Zod` `JWT` `Docker`
 
 ---
 
